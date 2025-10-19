@@ -21,13 +21,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.0.247:1313/2025/our_students/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://192.168.0.247:1313/2025/guest_artists/</loc>
+    <loc>http://192.168.0.247:1313/2025/performances/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,19 +33,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.0.247:1313/2025/academy/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://192.168.0.247:1313/2025/team/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.0.247:1313/2025/last_years_festival/</loc>
+    <loc>http://192.168.0.247:1313/2025/our_students/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://192.168.0.247:1313/2025/guest_artists/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

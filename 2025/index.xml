@@ -40,6 +40,36 @@
     </item>
     
     <item>
+      <title>Performances</title>
+      <link>http://192.168.0.247:1313/2025/performances/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/performances/</guid>
+      <description>Performances by junior, advanced and senior students of Shreyasi Gopinath Dance Academy</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/performances/feature-04-P1072047.jpg" />
+    </item>
+    
+    <item>
+      <title>Accompanists</title>
+      <link>http://192.168.0.247:1313/2025/accompanists/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/accompanists/</guid>
+      <description>Saadhana 2025: Accompanists</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/accompanists/feature-09-P1083104.JPG" />
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://192.168.0.247:1313/2025/team/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/team/</guid>
+      <description>The Saadhana 2025 Team</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/team/feature-10-P1071571.JPG" />
+    </item>
+    
+    <item>
       <title>Our Students</title>
       <link>http://192.168.0.247:1313/2025/our_students/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
@@ -57,46 +87,6 @@
       <guid>http://192.168.0.247:1313/2025/guest_artists/</guid>
       <description>Guest Artists at Saadhana 2025</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/guest_artists/feature-12-P1072270.jpg" />
-    </item>
-    
-    <item>
-      <title>Accompanists</title>
-      <link>http://192.168.0.247:1313/2025/accompanists/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/accompanists/</guid>
-      <description>Saadhana 2025: Accompanists</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/accompanists/feature-09-P1083104.JPG" />
-    </item>
-    
-    <item>
-      <title>Academy</title>
-      <link>http://192.168.0.247:1313/2025/academy/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/academy/</guid>
-      <description>Shreyasi Gopinath Dance Academy</description>
-      
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>http://192.168.0.247:1313/2025/team/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/team/</guid>
-      <description>The Saadhana 2025 Team</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/team/feature-10-P1071571.JPG" />
-    </item>
-    
-    <item>
-      <title>Last year&#39;s festival</title>
-      <link>http://192.168.0.247:1313/2025/last_years_festival/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/last_years_festival/</guid>
-      <description>Saadhana 2025</description>
-      
     </item>
     
     <item>
@@ -210,22 +200,22 @@
     </item>
     
     <item>
-      <title>Nandini Khattar, disciple of Nrityashri Alaknanda</title>
+      <title>Kathak by Nandini Khattar, disciple of Nrityashri Alaknanda</title>
       <link>http://192.168.0.247:1313/2025/nrityashri_alaknanda_and_nandini_khattar/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://192.168.0.247:1313/2025/nrityashri_alaknanda_and_nandini_khattar/</guid>
-      <description>Solo performance by Nandini Khattar at Saadhana 2025</description>
+      <description>abcd</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/nrityashri_alaknanda_and_nandini_khattar/feature-13-P1082756.JPG" />
     </item>
     
     <item>
-      <title>Sudhir Kumar and Himesh Parcha, disciples of Shri Santosh Nair</title>
+      <title>Chhau by Sudhir Kumar and Himesh Parcha, disciples of Shri Santosh Nair</title>
       <link>http://192.168.0.247:1313/2025/santosh_nair_sudhir_kumar_and_himesh_parcha/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://192.168.0.247:1313/2025/santosh_nair_sudhir_kumar_and_himesh_parcha/</guid>
-      <description>Solo performance by Sudhir Kumar and Himesh Parcha at Saadhana 2025</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/santosh_nair_sudhir_kumar_and_himesh_parcha/feature-12-P1072253.JPG" />
     </item>
     
