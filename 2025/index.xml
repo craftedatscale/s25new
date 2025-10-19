@@ -101,42 +101,12 @@
     
     <item>
       <title>Hanuman Chalisa</title>
-      <link>http://192.168.0.247:1313/2025/hanuman_chalisa-prev-kavadi_murugan/</link>
+      <link>http://192.168.0.247:1313/2025/hanuman_chalisa/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.0.247:1313/2025/hanuman_chalisa-prev-kavadi_murugan/</guid>
+      <guid>http://192.168.0.247:1313/2025/hanuman_chalisa/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/hanuman_chalisa-prev-kavadi_murugan/feature-02-P1071785.JPG" />
-    </item>
-    
-    <item>
-      <title>Ganesha Pancharatnam</title>
-      <link>http://192.168.0.247:1313/2025/ganesha_pancharatnam/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/ganesha_pancharatnam/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/ganesha_pancharatnam/feature-03-P1071878.JPG" />
-    </item>
-    
-    <item>
-      <title>Tunga Tarange Gange</title>
-      <link>http://192.168.0.247:1313/2025/tunga-tarange-gange-prev.-hanuman_chalisa/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/tunga-tarange-gange-prev.-hanuman_chalisa/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/tunga-tarange-gange-prev.-hanuman_chalisa/feature-04-P1072081.JPG" />
-    </item>
-    
-    <item>
-      <title>Meera Bhajan</title>
-      <link>http://192.168.0.247:1313/2025/meera_bhajan/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/meera_bhajan/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/hanuman_chalisa/feature-02-P1071785.JPG" />
     </item>
     
     <item>
@@ -146,17 +116,27 @@
       
       <guid>http://192.168.0.247:1313/2025/pushpanjali/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/pushpanjali/feature-03-P1071878.JPG" />
     </item>
     
     <item>
-      <title>Thillana</title>
-      <link>http://192.168.0.247:1313/2025/thillana/</link>
+      <title>Tunga Tarange Gange</title>
+      <link>http://192.168.0.247:1313/2025/tunga-tarange-gange/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.0.247:1313/2025/thillana/</guid>
+      <guid>http://192.168.0.247:1313/2025/tunga-tarange-gange/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/thillana/feature-06-P1072362.JPG" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/tunga-tarange-gange/feature-04-P1072081.JPG" />
+    </item>
+    
+    <item>
+      <title>Ganesha Pancharatnam</title>
+      <link>http://192.168.0.247:1313/2025/ganesha_pancharatnam/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/ganesha_pancharatnam/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/ganesha_pancharatnam/feature-05-P1072159.JPG" />
     </item>
     
     <item>
@@ -166,7 +146,37 @@
       
       <guid>http://192.168.0.247:1313/2025/dashavataram/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/dashavataram/feature-07-P1072493.JPG" />
+    </item>
+    
+    <item>
+      <title>Kavadi Murugan</title>
+      <link>http://192.168.0.247:1313/2025/kavadi-murugan/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
+      <guid>http://192.168.0.247:1313/2025/kavadi-murugan/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/kavadi-murugan/feature-07-P1082570.JPG" />
+    </item>
+    
+    <item>
+      <title>Thillana</title>
+      <link>http://192.168.0.247:1313/2025/thillana/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/thillana/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/thillana/feature-08-P1082823.JPG" />
+    </item>
+    
+    <item>
+      <title>Swagatam Krishna</title>
+      <link>http://192.168.0.247:1313/2025/swagatam_krishna/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/swagatam_krishna/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/swagatam_krishna/feature-09-P1083100.JPG" />
     </item>
     
     <item>
@@ -180,23 +190,13 @@
     </item>
     
     <item>
-      <title>Swagatam Krishna</title>
-      <link>http://192.168.0.247:1313/2025/swagatam_krishna/</link>
+      <title>Meera Bhajan</title>
+      <link>http://192.168.0.247:1313/2025/meera_bhajan/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.0.247:1313/2025/swagatam_krishna/</guid>
+      <guid>http://192.168.0.247:1313/2025/meera_bhajan/</guid>
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tunga Tarange Gange</title>
-      <link>http://192.168.0.247:1313/2025/tunga_tarange_gange/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/tunga_tarange_gange/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/meera_bhajan/feature-10-P1082617.JPG" />
     </item>
     
     <item>
